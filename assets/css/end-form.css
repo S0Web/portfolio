@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+#header {
+    position: absolute;
+    display: none;
+}
+
+>>>>>>> 93f06cae5d2fcbfae825d9b37ec4d56f632f0e41
 #contact-success {
     position: relative;
 }
