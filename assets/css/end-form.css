@@ -1,0 +1,20 @@
+#contact-success {
+    position: relative;
+}
+
+#contact-success .container {
+    position: relative;
+    margin-top: 150px;
+    text-align: center;
+    height: 300px;
+    display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+    align-items: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

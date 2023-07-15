@@ -268,3 +268,11 @@
   new PureCounter();
 
 })()
+
+// Rediriger quand on clique sur le bouton
+const bouton = document.getElementById('redirect');
+
+// Ajoutez un gestionnaire d'événement au clic sur le bouton
+bouton.addEventListener('click', function() {
+  window.location.href = '/end-form.html';
+});
